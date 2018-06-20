@@ -2,7 +2,7 @@
 just all online (still working) projects in one place
 
 # [Connor](https://vk.com/wellcomeon)
-Bot, based on google dialogflow neural network, it's trying to be human.
+Bot for vk.com, based on google dialogflow neural network, it's trying to be human.
 
 # [Meet and greet](http://meetgreet.ml/)
 You can create events in your city
