@@ -14,4 +14,4 @@ Just cosy fireplace with sound and videoloop
 Game about aircraft and bullets, desktop only
 
 # [The most dangerous writing app](https://vikegart.github.io/themostdangerouswritingapp/)
-If you stop typing for more than five seconds, all progress will be lost.
+[Forked] If you stop typing for more than five seconds, all progress will be lost.
