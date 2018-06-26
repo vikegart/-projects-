@@ -1,6 +1,9 @@
 # projects
 just all online (still working) projects in one place
 
+# [Metronome](https://vikegart.github.io/metronome/)
+Metronome app for drummers, written on react and canvas
+
 # [Connor](https://vk.com/wellcomeon)
 Bot for vk.com, based on google dialogflow neural network, it's trying to be human.
 
